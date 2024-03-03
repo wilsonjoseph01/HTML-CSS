@@ -3,3 +3,4 @@
 
 Estou aprendendo criar sites e agora estou muito feliz.
 
+<a hrf="https://wilsonjoseph01.github.io/html-css/exercicos/ex010/index.html">Executar o exercico
